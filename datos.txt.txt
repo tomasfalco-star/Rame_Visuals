@@ -1,0 +1,9 @@
+Integrante: Tomás Falco 
+carrera: Diseño Multimedial
+Materia: Diseño y Programación Web I
+año: 2026
+Tercer cuatrimestre
+Comisión: DMT3AV
+Turno Tarde
+Docente: Omar Toyos
+Carácter de entrega: Segundo Parcial
